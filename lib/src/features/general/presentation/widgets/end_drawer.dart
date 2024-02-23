@@ -89,12 +89,12 @@ class EndDrawer extends ConsumerWidget {
                         ),
                       ),
                       gapH80,
-                      AnimatedFadeSlide(
-                        offset: const Offset(0, 64),
-                        duration: const Duration(milliseconds: 350),
-                        child: _buildLocaleButton(context, ref),
-                      ),
-                      gapH40,
+                      // AnimatedFadeSlide(
+                      //   offset: const Offset(0, 64),
+                      //   duration: const Duration(milliseconds: 350),
+                      //   child: _buildLocaleButton(context, ref),
+                      // ),
+                      // gapH40,
                     ],
                   ),
                 ],

@@ -46,3 +46,10 @@ app.*.map.json
 # Dart generated files
 *.g.dart
 *.freezed.dart
+
+# Visual Studio Code related IDE plugin
+.vscode/settings.json
+
+# FVM
+.fvm/flutter_sdk
+.fvm/fvm_config.json

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:icons_plus/icons_plus.dart';
 import 'package:portfolio/src/common/domain/icon.dart';
 
 class MyIcon extends ConsumerWidget {
@@ -52,7 +53,8 @@ class MyIcon extends ConsumerWidget {
           ),
         );
       }
-    } else if (iconAssetName != null && iconFontPackage != null) {
+    } else if (iconAssetName != null && iconFontPackage != null) {      
+      // Brands.c_sharp_logo_2
       return SvgPicture.asset(
         iconAssetName,
         package: iconFontPackage,

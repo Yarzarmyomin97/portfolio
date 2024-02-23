@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Développeur Mobile",
-    "subDescription": "Passionné par Flutter & Python",
+    "name": "Yarzar Myo Min",
+    "description": "Mobile Application Developer",
+    "subDescription": "Flutter Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/Yarzarmyomin97",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -13,17 +13,8 @@
             }
         },
         {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
-            "icon": {
-                "codePoint": "0xf0ea",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus"
-            }
-        },
-        {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/yarzarmyomin",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +22,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "yarzarmyomin.dev@gmail.com",
+            "url": "mailto:yarzarmyomin.dev@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +31,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+95 9250011232",
+            "url": "tel:+959250011232",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -52,19 +43,15 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
-        },
-        {
-            "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://www.linkedin.com/in/yarzarmyomin"
         }
     ],
-    "aboutDescription": "Salut ! Je m'appelle Aladdine, et je suis apprenti développeur en quatrième année de Mobilité et Objets Connectés à l'ESGI Paris. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+    "aboutDescription": "Hi! I'm Yarzar Myo Min, a dedicated and innovative Mobile Application Developer with 5 years of experience in designing, implementing, and maintaining cross-platform mobile applications. Proficient in utilizing Flutter framework to create smooth, responsive, and visually appealing user interfaces. Seeking to leverage expertise in mobile app development to contribute effectively to a dynamic team. Skilled in Flutter, Dart, Ionic, Android, iOS, Java, C#, Software Development and Mobile Applications.",
     "experiences": [
         {
-            "role": "Développeur Mobile",
-            "company": "Walt Disney Imagineering",
-            "description": "Développement d'une application mobile offline-first de levée des réserves pour Disneyland Paris, facilitant aux experts techniques la prise d'informations sur le terrain et fluidifiant la communication avec les services de maintenance pour la résolution des problèmes.",
+            "role": "Senior Full Stack Developer",
+            "company": "One Atkhayar Co., Ltd",
+            "description": "Develop and maintain multiple both Flutter and Ionic applications for Android and iOS platforms. Collaborate with designers and product managers to create intuitive and visually appealing user interfaces.",
             "isPresent": false,
             "startYear": 2022,
             "endYear": 2023,
@@ -131,15 +118,15 @@
             ],
             "links": [
                 {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
+                    "url": "https://atkhayar.com/",
+                    "display": "One Atkhayar Co., Ltd"
                 }
             ]
         },
         {
-            "role": "Développeur Mobile",
-            "company": "Solutions Multi Techniques",
-            "description": "Développement d'une Progressive Web App pour les techniciens en systèmes de sécurité, leur permettant de générer des devis PDF complets. Cela permet la remise immédiate des devis aux clients après leur visite, augmentant ainsi le taux de conversion.",
+            "role": "Mobile App Developer",
+            "company": "Global Wave Technology",
+            "description": "Test Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
             "startYear": 2022,
             "startMonth": 1,
             "endYear": 2022,
@@ -166,12 +153,18 @@
                         "fontPackage": "icons_plus"
                     }
                 }
+            ],
+            "links": [
+                {
+                    "url": "https://www.globalwave.com.mm/",
+                    "display": "Global Wave Technology"
+                }
             ]
         },
         {
-            "role": "Développeur Web",
+            "role": "Web Developer",
             "company": "Association FAIRE",
-            "description": "Développement du site web de l'association, en collaboration au sein d'un groupe de développeurs. Ce site web offre à ses visiteurs la possibilité d'en savoir plus sur l'association et de la rejoindre en tant que membres.\nÀ ce jour, le site web a attiré plus de 10 000 visites.",
+            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
             "startYear": 2021,
             "startMonth": 5,
             "endYear": 2021,
@@ -222,11 +215,11 @@
             ]
         }
     ],
-    "present": "Présent",
+    "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "Ce projet open source permet à toute personne de disposer d’un portfolio en ligne en moins de 10 minutes. Il adopte une architecture basée sur Riverpod en suivant une approche feature-first pour sa structure. Il est entièrement responsive, et prend en charge plusieurs thèmes ainsi que plusieurs langues.",
+            "name": "New Portfolio",
+            "description": "That This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
             "url": "https://github.com/AladdineDev/portfolio#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -254,13 +247,13 @@
             "links": [
                 {
                     "url": "https://brittanychiang.com",
-                    "display": "Inspiré par Brittany Chiang"
+                    "display": "Inspired by Brittany Chiang"
                 }
             ]
         },
         {
             "name": "Learn Flow API",
-            "description": "Learn Flow est un projet de groupe visant à créer une solution de mise en relation d'élèves et d'enseignants. Cette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web). Elle offre notamment des fonctionnalités d'authentification avec JWT.",
+            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
             "url": "https://github.com/AladdineDev/learnflow-api#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -310,7 +303,7 @@
         },
         {
             "name": "Learn Flow Backoffice",
-            "description": "Il s'agit du back-office conçu pour les managers du projet Learn Flow. Cette Single-Page App leur permet de surveiller l'activité de leurs applications et utilisateurs (trafic, factures...).",
+            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
             "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -338,7 +331,7 @@
         },
         {
             "name": "GSB-Frais",
-            "description": "GSB-Frais est une application web de gestion des frais, développée pour les délégués médicaux et les comptables de l'entreprise fictive GSB. Elle facilite la saisie et la vérification des rapports mensuels des délégués médicaux, tout en permettant aux comptables de les traiter.",
+            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
             "url": "https://github.com/AladdineDev/GSB-Frais#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -389,7 +382,7 @@
         },
         {
             "name": "GSB-RV-Visiteur-Serveur",
-            "description": "L'API REST du projet GSB sert d'interface pour les différents clients du projet (Android, Desktop et Web).",
+            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
             "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -434,7 +427,7 @@
     "languages": [
         {
             "code": "en",
-            "name": "Anglais",
+            "name": "English",
             "nativeName": "English",
             "icon": {
                 "assetName": "assets/images/logos/flags/united-states-of-america.svg",
@@ -443,7 +436,7 @@
         },
         {
             "code": "fr",
-            "name": "Français",
+            "name": "French",
             "nativeName": "Français",
             "icon": {
                 "assetName": "assets/images/logos/flags/france.svg",
@@ -452,18 +445,18 @@
         }
     ],
     "bottomBanner": {
-        "message": "Portfolio open source -",
-        "displayLink": "Forkez-le",
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
         "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
     },
     "portfolio": "Portfolio",
-    "homeSectionTitle": "Accueil",
-    "aboutSectionTitle": "À propos",
-    "aboutSectionTitleAlt": "À propos de moi",
-    "experienceSectionTitle": "Expériences",
-    "projectsSectionTitle": "Projets",
-    "resume": "CV",
-    "downloadResume": "Télécharger le CV",
-    "openUrlError": "Impossible d'ouvrir l'url",
-    "unknownLanguageError": "Langue inconnue"
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown"
 }

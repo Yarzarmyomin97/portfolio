@@ -29,10 +29,10 @@ class _MainSectionState extends ConsumerState<GeneralSection> {
               desktop: GeneralDesktop(),
               tablet: GeneralTablet(),
             ),
-            Align(
-              alignment: Alignment.bottomCenter,
-              child: BottomBanner(),
-            )
+            // Align(
+            //   alignment: Alignment.bottomCenter,
+            //   child: BottomBanner(),
+            // )
           ],
         ),
       ),
